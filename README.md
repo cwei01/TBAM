@@ -1,4 +1,4 @@
-#TBAM
+
 @inproceedings{chen2019target,
   title={Target-Based Attention Model for Aspect-Level Sentiment Analysis},
   author={Chen, Wei and Yu, Wenxin and Zhang, Zhiqiang and Zhang, Yunye and Xu, Kepeng and Zhang, Fengwei and Fan, Yibo and He, Gang and Yang, Zhuo},
